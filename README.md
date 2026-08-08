@@ -1,6 +1,4 @@
-# AI-Powered CSV Importer — GrowEasy CRM
-
-**Live Demo**: https://grow-easy-assignment-khaki.vercel.app/
+# AI-Powered CSV Importer
 
 An intelligent CSV-to-CRM importer that uses AI (Google Gemini) to map any CSV format into structured GrowEasy CRM lead records.
 
@@ -217,12 +215,6 @@ Health check endpoint.
 ├── Dockerfile.frontend
 └── README.md
 ```
-
----
-
-## Position Applied For
-
-**Software Developer Intern**
 
 ---
 
